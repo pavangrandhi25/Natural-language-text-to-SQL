@@ -1,3 +1,5 @@
+referal link: https://www.youtube.com/watch?v=wFdFLWc-W4k
+
 # Network Inventory — NL → SQLite (Streamlit + Gemini)
 
 Overview
