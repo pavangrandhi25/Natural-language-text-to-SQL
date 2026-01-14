@@ -1,6 +1,4 @@
-referal link: https://www.youtube.com/watch?v=wFdFLWc-W4k
-
-# Network Inventory — NL → SQLite (Streamlit + Gemini)
+# Network Devices Inventory — NL → SQLite (Streamlit + Gemini)
 
 Overview
 - Purpose: Convert plain-English questions into SQLite SELECT queries for a small network-device inventory and display results in a Streamlit UI.
